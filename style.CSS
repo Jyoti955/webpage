@@ -5,8 +5,7 @@
 }
 .hero{
     height:100vh;
-    background-image: linera- 
-    gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.8)),url(jyoti.jpg);
+    background-image :url(jyoti.jpg);
     background-position:center ;
     background-size:cover;
 
